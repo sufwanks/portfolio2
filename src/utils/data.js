@@ -31,7 +31,7 @@ export const workExp = [
   },
   {
     place: "Tranetech Software Solutions",
-    tenure: "Aug 2014 - Sep 2016",
+    tenure: "May 2022 - Present",
     role: "SOFTWARE DEVELOPER",
     detail:
       "Experienced web developer proficient in React, JavaScript, and Laravel with a successful track record of suggesting and implementing new features and upgrading ERP applications to modern technologies, leading teams, and overseeing product development while maintaining technical documentation and workflows.",
